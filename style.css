@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+#B-G{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 669px;
+}
+.T-F{
+    text-align: center;
+    padding-top: 20%;
+    color: white;
+}
+.m-one{
+    font-size: 25px;
+    color: aqua;
+}
+.link-button{
+    background-image: linear-gradient(rgb(255, 119, 0), rgb(236, 69, 69));
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: x-large;
+    color: aquamarine;
+    
+}
