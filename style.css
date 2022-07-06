@@ -66,3 +66,19 @@ li{
     font-size: small;
     color: silver;
 }
+.flix{
+    display: flex;
+    margin-bottom: 100px;
+}
+.line-box{
+    font-size: smaller;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgb(248, 231, 247);
+    padding: 2%;
+    border-radius: 5px;
+    
+}
+.line-box img{
+    width: 50px;
+}
