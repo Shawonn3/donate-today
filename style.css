@@ -14,7 +14,7 @@ body{
 }
 .m-one{
     font-size: 25px;
-    color: aqua
+    color: aqua;
 }
 .link-button{
     background-image: linear-gradient(rgb(255, 119, 0), rgb(236, 69, 69));
@@ -29,12 +29,10 @@ body{
     padding-top: 5%;
     padding: 5% 30% 5% 30%;
 }
-.flx{
+.flex-one{
     display: flex;
-}
-#pad{
-    margin-left: 40%;
-    padding: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 li{
     display: inline;
@@ -66,19 +64,36 @@ li{
     font-size: small;
     color: silver;
 }
-.flix{
-    display: flex;
-    margin-bottom: 100px;
-}
 .line-box{
     font-size: smaller;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left:2%;
+    margin-right: %;
     background-color: rgb(248, 231, 247);
-    padding: 2%;
+    padding: 3%;
     border-radius: 5px;
     
 }
 .line-box img{
     width: 50px;
+}
+
+.flex-tow{
+    display: flex;
+    margin: 10%;
+}
+.donate-box{
+    padding-right: 25%;
+}
+.flex-three{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.flex-three img{
+    width: 180%;
+    margin-left: %;
+}
+.survive{
+    padding-left: 25%;
+    padding-right: 5%;
 }
