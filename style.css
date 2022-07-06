@@ -22,7 +22,7 @@ body{
     text-decoration: none;
     border-radius: 10px;
     font-size: x-large;
-    color: aquamarine; 
+    color: aquamarine;
 }
 .T-F-tow{
     text-align: center;
@@ -39,15 +39,30 @@ body{
 li{
     display: inline;
     padding: 20px;
-    background-color: rgb(233, 241, 248);
+    background-color: rgb(253, 237, 237);
     border-radius: 5px;
 }
 #brd{
     border: 3px solid coral;
+    background-color: rgb(255, 224, 187);
 }
 .cn{
     padding-left: 28%;
     font-size: xx-large;
     font-weight: 600;
     font-family: 'poppins';
+}
+.warp{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+.warp .in-data input{
+    border: none;
+    border-bottom: 1px solid silver;
+    width: 50%;
+}
+.warp .in-data label{
+    font-size: small;
+    color: silver;
 }
