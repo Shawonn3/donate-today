@@ -7,14 +7,14 @@ body{
     background-size: cover;
     height: 669px;
 }
-.T-F{
+.T-F-one{
     text-align: center;
     padding-top: 20%;
     color: white;
 }
 .m-one{
     font-size: 25px;
-    color: aqua;
+    color: aqua
 }
 .link-button{
     background-image: linear-gradient(rgb(255, 119, 0), rgb(236, 69, 69));
@@ -22,6 +22,32 @@ body{
     text-decoration: none;
     border-radius: 10px;
     font-size: x-large;
-    color: aquamarine;
-    
+    color: aquamarine; 
+}
+.T-F-tow{
+    text-align: center;
+    padding-top: 5%;
+    padding: 5% 30% 5% 30%;
+}
+.flx{
+    display: flex;
+}
+#pad{
+    margin-left: 40%;
+    padding: 5%;
+}
+li{
+    display: inline;
+    padding: 20px;
+    background-color: rgb(233, 241, 248);
+    border-radius: 5px;
+}
+#brd{
+    border: 3px solid coral;
+}
+.cn{
+    padding-left: 28%;
+    font-size: xx-large;
+    font-weight: 600;
+    font-family: 'poppins';
 }
